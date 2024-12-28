@@ -1,0 +1,149 @@
+[
+    {
+        "ten": "Nguyễn Văn An",
+        "email": "an.nguyen@gmail.com",
+        "sdt": "0901234567",
+        "gioitinh": "Nam",
+        "mssv": "SV001"
+    },
+    {
+        "ten": "Trần Thị Bình",
+        "email": "binh.tran@gmail.com",
+        "sdt": "0912345678",
+        "gioitinh": "Nữ",
+        "mssv": "SV002"
+    },
+    {
+        "ten": "Lê Văn Cường",
+        "email": "cuong.le@gmail.com",
+        "sdt": "0923456789",
+        "gioitinh": "Nam",
+        "mssv": "SV003"
+    },
+    {
+        "ten": "Phạm Thị Dung",
+        "email": "dung.pham@gmail.com",
+        "sdt": "0934567890",
+        "gioitinh": "Nữ",
+        "mssv": "SV004"
+    },
+    {
+        "ten": "Hoàng Văn Em",
+        "email": "em.hoang@gmail.com",
+        "sdt": "0945678901",
+        "gioitinh": "Nam",
+        "mssv": "SV005"
+    },
+    {
+        "ten": "Nguyễn Thị Phương",
+        "email": "phuong.nguyen@gmail.com",
+        "sdt": "0956789012",
+        "gioitinh": "Nữ",
+        "mssv": "SV006"
+    },
+    {
+        "ten": "Trần Văn Giáp",
+        "email": "giap.tran@gmail.com",
+        "sdt": "0967890123",
+        "gioitinh": "Nam",
+        "mssv": "SV007"
+    },
+    {
+        "ten": "Lê Thị Hương",
+        "email": "huong.le@gmail.com",
+        "sdt": "0978901234",
+        "gioitinh": "Nữ",
+        "mssv": "SV008"
+    },
+    {
+        "ten": "Đỗ Văn Khang",
+        "email": "khang.do@gmail.com",
+        "sdt": "0989012345",
+        "gioitinh": "Nam",
+        "mssv": "SV009"
+    },
+    {
+        "ten": "Vũ Thị Lan",
+        "email": "lan.vu@gmail.com",
+        "sdt": "0990123456",
+        "gioitinh": "Nữ",
+        "mssv": "SV010"
+    },
+    {
+        "ten": "Nguyễn Văn Minh",
+        "email": "minh.nguyen@gmail.com",
+        "sdt": "0901234567",
+        "gioitinh": "Nam",
+        "mssv": "SV011"
+    },
+    {
+        "ten": "Trần Thị Ngọc",
+        "email": "ngoc.tran@gmail.com",
+        "sdt": "0912345678",
+        "gioitinh": "Nữ",
+        "mssv": "SV012"
+    },
+    {
+        "ten": "Phạm Văn Oanh",
+        "email": "oanh.pham@gmail.com",
+        "sdt": "0923456789",
+        "gioitinh": "Nam",
+        "mssv": "SV013"
+    },
+    {
+        "ten": "Lê Thị Quỳnh",
+        "email": "quynh.le@gmail.com",
+        "sdt": "0934567890",
+        "gioitinh": "Nữ",
+        "mssv": "SV014"
+    },
+    {
+        "ten": "Hoàng Văn Rồng",
+        "email": "rong.hoang@gmail.com",
+        "sdt": "0945678901",
+        "gioitinh": "Nam",
+        "mssv": "SV015"
+    },
+    {
+        "ten": "Nguyễn Thị Sen",
+        "email": "sen.nguyen@gmail.com",
+        "sdt": "0956789012",
+        "gioitinh": "Nữ",
+        "mssv": "SV016"
+    },
+    {
+        "ten": "Trần Văn Tâm",
+        "email": "tam.tran@gmail.com",
+        "sdt": "0967890123",
+        "gioitinh": "Nam",
+        "mssv": "SV017"
+    },
+    {
+        "ten": "Lê Thị Uyên",
+        "email": "uyen.le@gmail.com",
+        "sdt": "0978901234",
+        "gioitinh": "Nữ",
+        "mssv": "SV018"
+    },
+    {
+        "ten": "Đỗ Văn Vương",
+        "email": "vuong.do@gmail.com",
+        "sdt": "0989012345",
+        "gioitinh": "Nam",
+        "mssv": "SV019"
+    },
+    {
+        "ten": "Vũ Thị Xuân",
+        "email": "xuan.vu@gmail.com",
+        "sdt": "0990123456",
+        "gioitinh": "Nữ",
+        "mssv": "SV020"
+    },
+    {
+        "ten": "Ngô Nhật Khánh",
+        "email": "ngonhatkhanh123@gmail.com",
+        "sdt": "0812719028",
+        "gioitinh": "Nam",
+        "mssv": "SV021"
+    }
+]

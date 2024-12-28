@@ -1,0 +1,226 @@
+[
+    {
+        "mssv": "SV001",
+        "ma_mon_hoc": "MH001",
+        "diem_qua_trinh": 8.5,
+        "diem_kiem_tra": 7.5,
+        "diem_thi": 8.0
+    },
+    {
+        "mssv": "SV001",
+        "ma_mon_hoc": "MH002",
+        "diem_qua_trinh": 9.0,
+        "diem_kiem_tra": 8.5,
+        "diem_thi": 8.5
+    },
+    {
+        "mssv": "SV002",
+        "ma_mon_hoc": "MH001",
+        "diem_qua_trinh": 7.0,
+        "diem_kiem_tra": 7.5,
+        "diem_thi": 7.0
+    },
+    {
+        "mssv": "SV002",
+        "ma_mon_hoc": "MH003",
+        "diem_qua_trinh": 8.0,
+        "diem_kiem_tra": 8.0,
+        "diem_thi": 8.5
+    },
+    {
+        "mssv": "SV003",
+        "ma_mon_hoc": "MH002",
+        "diem_qua_trinh": 9.5,
+        "diem_kiem_tra": 9.0,
+        "diem_thi": 9.0
+    },
+    {
+        "mssv": "SV012",
+        "ma_mon_hoc": "MH002",
+        "diem_qua_trinh": 8.5,
+        "diem_kiem_tra": 8.0,
+        "diem_thi": 8.5
+    },
+    {
+        "mssv": "SV012",
+        "ma_mon_hoc": "MH003",
+        "diem_qua_trinh": 8.0,
+        "diem_kiem_tra": 8.5,
+        "diem_thi": 8.0
+    },
+    {
+        "mssv": "SV013",
+        "ma_mon_hoc": "MH001",
+        "diem_qua_trinh": 7.0,
+        "diem_kiem_tra": 7.5,
+        "diem_thi": 7.0
+    },
+    {
+        "mssv": "SV013",
+        "ma_mon_hoc": "MH002",
+        "diem_qua_trinh": 8.5,
+        "diem_kiem_tra": 8.0,
+        "diem_thi": 8.5
+    },
+    {
+        "mssv": "SV013",
+        "ma_mon_hoc": "MH003",
+        "diem_qua_trinh": 9.0,
+        "diem_kiem_tra": 8.5,
+        "diem_thi": 9.0
+    },
+    {
+        "mssv": "SV014",
+        "ma_mon_hoc": "MH001",
+        "diem_qua_trinh": 8.5,
+        "diem_kiem_tra": 8.0,
+        "diem_thi": 8.5
+    },
+    {
+        "mssv": "SV014",
+        "ma_mon_hoc": "MH002",
+        "diem_qua_trinh": 9.0,
+        "diem_kiem_tra": 8.5,
+        "diem_thi": 9.0
+    },
+    {
+        "mssv": "SV014",
+        "ma_mon_hoc": "MH003",
+        "diem_qua_trinh": 8.0,
+        "diem_kiem_tra": 8.5,
+        "diem_thi": 8.0
+    },
+    {
+        "mssv": "SV015",
+        "ma_mon_hoc": "MH001",
+        "diem_qua_trinh": 7.5,
+        "diem_kiem_tra": 7.0,
+        "diem_thi": 7.5
+    },
+    {
+        "mssv": "SV015",
+        "ma_mon_hoc": "MH002",
+        "diem_qua_trinh": 8.0,
+        "diem_kiem_tra": 8.5,
+        "diem_thi": 8.0
+    },
+    {
+        "mssv": "SV015",
+        "ma_mon_hoc": "MH003",
+        "diem_qua_trinh": 8.5,
+        "diem_kiem_tra": 8.0,
+        "diem_thi": 8.5
+    },
+    {
+        "mssv": "SV016",
+        "ma_mon_hoc": "MH001",
+        "diem_qua_trinh": 8.0,
+        "diem_kiem_tra": 8.5,
+        "diem_thi": 8.0
+    },
+    {
+        "mssv": "SV016",
+        "ma_mon_hoc": "MH002",
+        "diem_qua_trinh": 7.5,
+        "diem_kiem_tra": 8.0,
+        "diem_thi": 7.5
+    },
+    {
+        "mssv": "SV016",
+        "ma_mon_hoc": "MH003",
+        "diem_qua_trinh": 9.0,
+        "diem_kiem_tra": 8.5,
+        "diem_thi": 9.0
+    },
+    {
+        "mssv": "SV017",
+        "ma_mon_hoc": "MH001",
+        "diem_qua_trinh": 8.5,
+        "diem_kiem_tra": 8.0,
+        "diem_thi": 8.5
+    },
+    {
+        "mssv": "SV017",
+        "ma_mon_hoc": "MH002",
+        "diem_qua_trinh": 7.0,
+        "diem_kiem_tra": 7.5,
+        "diem_thi": 7.0
+    },
+    {
+        "mssv": "SV017",
+        "ma_mon_hoc": "MH003",
+        "diem_qua_trinh": 8.0,
+        "diem_kiem_tra": 8.5,
+        "diem_thi": 8.0
+    },
+    {
+        "mssv": "SV018",
+        "ma_mon_hoc": "MH001",
+        "diem_qua_trinh": 9.0,
+        "diem_kiem_tra": 8.5,
+        "diem_thi": 9.0
+    },
+    {
+        "mssv": "SV018",
+        "ma_mon_hoc": "MH002",
+        "diem_qua_trinh": 8.5,
+        "diem_kiem_tra": 8.0,
+        "diem_thi": 8.5
+    },
+    {
+        "mssv": "SV018",
+        "ma_mon_hoc": "MH003",
+        "diem_qua_trinh": 8.0,
+        "diem_kiem_tra": 8.5,
+        "diem_thi": 8.0
+    },
+    {
+        "mssv": "SV019",
+        "ma_mon_hoc": "MH001",
+        "diem_qua_trinh": 7.5,
+        "diem_kiem_tra": 7.0,
+        "diem_thi": 7.5
+    },
+    {
+        "mssv": "SV019",
+        "ma_mon_hoc": "MH002",
+        "diem_qua_trinh": 8.0,
+        "diem_kiem_tra": 8.5,
+        "diem_thi": 8.0
+    },
+    {
+        "mssv": "SV019",
+        "ma_mon_hoc": "MH003",
+        "diem_qua_trinh": 8.5,
+        "diem_kiem_tra": 8.0,
+        "diem_thi": 8.5
+    },
+    {
+        "mssv": "SV020",
+        "ma_mon_hoc": "MH001",
+        "diem_qua_trinh": 8.0,
+        "diem_kiem_tra": 8.5,
+        "diem_thi": 8.0
+    },
+    {
+        "mssv": "SV020",
+        "ma_mon_hoc": "MH002",
+        "diem_qua_trinh": 9.0,
+        "diem_kiem_tra": 8.5,
+        "diem_thi": 9.0
+    },
+    {
+        "mssv": "SV020",
+        "ma_mon_hoc": "MH003",
+        "diem_qua_trinh": 8.5,
+        "diem_kiem_tra": 8.0,
+        "diem_thi": 8.5
+    },
+    {
+        "mssv": "SV021",
+        "ma_mon_hoc": "MH001",
+        "diem_qua_trinh": 0.0,
+        "diem_kiem_tra": 0.0,
+        "diem_thi": 0.0
+    }
+]

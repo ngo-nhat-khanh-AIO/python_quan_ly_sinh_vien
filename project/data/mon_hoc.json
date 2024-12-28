@@ -1,0 +1,17 @@
+[
+    {
+        "ma_mon_hoc": "MH001",
+        "ten_mon_hoc": "Toán cao cấp",
+        "tin_chi": 3
+    },
+    {
+        "ma_mon_hoc": "MH002",
+        "ten_mon_hoc": "Lập trình cơ bản",
+        "tin_chi": 4
+    },
+    {
+        "ma_mon_hoc": "MH003",
+        "ten_mon_hoc": "Tiếng Anh",
+        "tin_chi": 2
+    }
+]
